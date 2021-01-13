@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"bufferedReader"},{"l":"EjConsole"},{"l":"poop11"},{"l":"Serializar"}];updateSearchResults();
